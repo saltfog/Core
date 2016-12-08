@@ -3,8 +3,17 @@
   "private": true,
   "dependencies": {
     "bootstrap": "3.3.6",
-    "jquery": "2.2.0",
-    "jquery-validation": "1.14.0",
-    "jquery-validation-unobtrusive": "3.2.6"
+    "jquery": "2.2.3",
+    "jquery-validation": "1.15.0",
+    "jquery-validation-unobtrusive": "3.2.6",
+    "moment": "2.13.0",
+    "eonasdan-bootstrap-datetimepicker": "4.17.37",
+    "blueimp-file-upload": "9.12.3",
+    "bootstrap-fileinput": "4.3.1",
+    "fileapi": "2.0.20"
+  },
+  "resolutions": {
+    "jquery-validation": "1.15.0",
+    "jquery": ">= 1.7.2"
   }
 }
